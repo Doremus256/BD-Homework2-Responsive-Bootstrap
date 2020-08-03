@@ -1,7 +1,11 @@
 README - BD-Homework2-Responsive-Bootstrap
 
 Brad Doremus
+
+
 GitHub: https://github.com/Doremus256/BD-Homework2-Responsive-Bootstrap
+
+
 Live Website: https://doremus256.github.io/BD-Homework2-Responsive-Bootstrap/index.html
 
 
