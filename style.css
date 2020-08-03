@@ -9,15 +9,21 @@ main {
 }
 
 header {
-    margin-top: 70px;
+    border-bottom: 5px solid white;
 }
 
-.col-xs-2 {
+img {
+    margin: 20px;
+}
+
+#col-xs-2 {
     margin-top: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
-.col-xs-6 {
-    margin-left: 20px;
+#col-xs-6 {
+    margin-left: 40px;
     margin-right: 20px;
     margin-bottom: 20px;
 }
@@ -30,8 +36,28 @@ p {
 
 .contact {
     margin-top: 70px;
+    padding: 10%;
+    margin: 10%;
 }
 
 li {
     padding: 2px;
 }
+
+.container {
+    padding-top: 3%;
+    margin-top: 3%;
+}
+
+nav {
+    display: inline;
+
+}
+
+.navlinks {
+    margin-right: 3%;
+
+}
+
+
+
